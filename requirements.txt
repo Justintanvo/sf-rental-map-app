@@ -1,0 +1,7 @@
+dash
+pandas
+gunicorn
+boto3
+scikit-learn
+geopandas
+plotly
