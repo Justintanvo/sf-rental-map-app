@@ -8,7 +8,7 @@ from dash import Dash, dcc, html, Input, Output
 
 
 # Initialize Dash app
-app = dash.Dash(__name__)
+app = Dash(__name__)
 
 DEFAULT_SEARCH_QUERY = "100 Larkin St"  # Replace with your desired default address
 
